@@ -154,10 +154,3 @@ Códigos de error: `400` datos inválidos, `401` sin sesión o token inválido, 
 | DB_USER | root | Usuario de MySQL |
 | DB_PASSWORD | root | Clave de MySQL |
 | JWT_SECRET | clave de desarrollo | Secreto para firmar los JWT (mínimo 32 caracteres; cambiarlo fuera del desarrollo) |
-
-## Declaración de uso de IA
-
-Para el desarrollo de este proyecto (tienda online Level-Up Gamer, Evaluación Parcial 3 de DSY1104) se utilizó la herramienta de inteligencia artificial Claude (Anthropic) como apoyo en las siguientes tareas:
-
-- Desarrollo del backend en Spring Boot (entidades, servicios, controladores, seguridad con JWT y pruebas de integración).
-- Elaboración de material de apoyo para el estudio y preparación de la presentación oral del proyecto.
